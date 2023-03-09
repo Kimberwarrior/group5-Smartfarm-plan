@@ -11,8 +11,15 @@
 * 높은 인건비를 대체할 수 있어서 경제성이 높습니다.
 * 외부환경이 아닌 내부환경에서 재배하므로 병충해예방에 강합니다.
 
+## 사용할 예상기술
+* 음성인식을 통한 빛, 온도, 습도, 물조절
+* 디스플레이를 통한 빛, 온도, 습도, 물조절
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/224026774-82cbc40b-573a-47c9-83e2-e7c3a9caa31c.png">
+</p>
 
 ## 예상 블록도
-https://user-images.githubusercontent.com/61779129/224024299-ce8adb36-21cd-48f1-a705-ffa37a7f0f42.png
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/224026488-fe54fc32-65d6-47aa-832e-5543fd001ca3.png">
+</p>
