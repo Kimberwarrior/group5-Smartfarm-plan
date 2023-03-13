@@ -20,8 +20,8 @@
 
 
 ## 사용할 예상기술
-* 음성인식을 통한 빛, 온도, 습도, 물조절
-* 디스플레이를 통한 빛, 온도, 습도, 물조절
+* 음성인식을 통한 빛, 온도, 습도, 물 관련도구 전원 On/Off
+* 디스플레이를 통한 빛, 온도, 습도, 물 관련도구 값 조절
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61779129/224026774-82cbc40b-573a-47c9-83e2-e7c3a9caa31c.png">
@@ -32,5 +32,5 @@
 
 ## 예상 블록도
 <p align="center">
-<img src="https://user-images.githubusercontent.com/61779129/224026488-fe54fc32-65d6-47aa-832e-5543fd001ca3.png">
+<img src="https://user-images.githubusercontent.com/61779129/224741019-2a055fda-b2e6-45db-9e9c-cb98b6e5dcc6.png">
 </p>
