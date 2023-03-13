@@ -32,5 +32,5 @@
 
 ## 예상 블록도
 <p align="center">
-<img src="https://user-images.githubusercontent.com/61779129/224741019-2a055fda-b2e6-45db-9e9c-cb98b6e5dcc6.png">
+<img src="https://user-images.githubusercontent.com/61779129/224749478-becd62c2-9f46-4973-bacc-b578bf0344a0.png">
 </p>
