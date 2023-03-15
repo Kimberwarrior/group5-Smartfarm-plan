@@ -20,8 +20,8 @@
 
 
 ## 사용할 예상기술
-* 음성인식을 통한 빛, 온도, 습도, 물 관련도구 전원 On/Off
-* 디스플레이를 통한 빛, 온도, 습도, 물 관련도구 값 조절
+* 음성인식을 통한 빛, 온도, 습도, 물 관련장치 전원 On/Off
+* 디스플레이를 통한 빛, 온도, 습도, 물 관련장치 값 조절
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61779129/224026774-82cbc40b-573a-47c9-83e2-e7c3a9caa31c.png">
